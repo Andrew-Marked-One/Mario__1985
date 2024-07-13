@@ -29,7 +29,7 @@ At the end, I gained some resistance to frustration, debugging skills, animation
 - [Tutorials for SFML 2.6](https://www.sfml-dev.org/tutorials/2.6/), by [SFML](https://www.sfml-dev.org/index.php), Multimedia Library.
 
 ### Demo
-[Watch demo.](https://www.youtube.com/watch?v=T3ybw22XVe0)
+[Watch demo.](https://www.youtube.com/watch?v=CECwio1yPsI)
 
 ### Copyrights
 GPT suggested that there might be problems with copyrights. So, I'm not including textures. 
