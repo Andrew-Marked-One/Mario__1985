@@ -1,4 +1,3 @@
-#pragma once
 #include "Animation.h"
 #include <cmath>
 

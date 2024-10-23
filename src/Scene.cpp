@@ -1,4 +1,3 @@
-#pragma once
 #include "Scene.h"
 #include "GameEngine.h"
 void Scene::setPaused(bool paused) {

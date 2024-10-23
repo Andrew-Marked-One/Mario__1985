@@ -1,4 +1,3 @@
-#pragma once
 #include "EntityManager.h"
 
 void EntityManager::removeDeadEntities(EntityVec& vec) {

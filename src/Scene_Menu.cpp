@@ -1,4 +1,3 @@
-#pragma once
 #include "Scene_Menu.h"
 #include "GameEngine.h"
 #include "Scene_Play.h"
@@ -17,9 +16,9 @@ void Scene_Menu::init() {
 	m_title = "MEGA MARIO";
 	m_menuStrings = { "Level 1", "Level 2", "Level 3" };
 	m_menuText.setFont(m_game->assets().getFont("Pixelify"));
-	m_levelPaths.push_back("bin/level1.txt");
-	m_levelPaths.push_back("bin/level2.txt");
-	m_levelPaths.push_back("bin/level3.txt");
+	m_levelPaths.push_back("resources/level1.txt");
+	m_levelPaths.push_back("resources/level2.txt");
+	m_levelPaths.push_back("resources/level3.txt");
 	m_game->window().setView(sf::View(sf::FloatRect(0, 0, width(), height())));
 }
 void Scene_Menu::sRender(){

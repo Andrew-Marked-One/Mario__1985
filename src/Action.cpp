@@ -1,4 +1,3 @@
-#pragma once
 #include "Action.h"
 
 Action::Action() {}
@@ -12,5 +11,5 @@ const std::string& Action::type() const {
 	return m_type;
 }
 std::string Action::toString() const {
-
+        return "";
 }

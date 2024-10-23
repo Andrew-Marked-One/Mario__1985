@@ -1,4 +1,3 @@
-#pragma once
 #include "Components.h"
 
 CTransform::CTransform() {}

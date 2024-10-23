@@ -1,5 +1,3 @@
-#pragma once
-
 #include "Scene_Play.h"
 #include "Assets.h"
 #include "GameEngine.h"

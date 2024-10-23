@@ -1,2 +1,0 @@
-Window 1600 900 60
-Assets bin/assets.txt

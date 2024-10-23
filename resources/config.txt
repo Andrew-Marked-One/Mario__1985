@@ -1,0 +1,2 @@
+Window 1600 900 60
+Assets resources/assets.txt

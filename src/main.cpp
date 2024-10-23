@@ -1,7 +1,6 @@
 #include "GameEngine.h"
 
 int main(){
-    GameEngine g("bin/config.txt");
+    GameEngine g("resources/config.txt");
     g.run();
 }
-//this is a copy
