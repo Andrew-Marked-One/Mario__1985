@@ -1,28 +1,21 @@
 ### Project #3
-Timeline: 2024.1.12 - 2024.1.28
+**Timeline**: 2024.1.12 - 2024.1.28
 
+This project is a recreation of the first level of the classic **Mario** game from 1985. Note that textures are not included.
 
-The start of this project was incredibly frustrating. I struggled to get certain modules to work, spending days debugging almost without any progress. At times, I wanted to quit and move on to another project. However, I decided to see it through to the end. 
-
-Eventually, stars aligned, and I resolved all the problems with modules, which allowed me to continue and finish the project.
-
-At the end, I gained some resistance to frustration, debugging skills, animation, working with classes.
+### Installation Guide
+- You can follow [these general installation steps](https://github.com/Andrew-Marked-One/General_installation_guide/blob/main/README.md). This guide provides instructions for installing the necessary tools.
 
 ### Controls
-- W, Space: Jump
-- S: Move down
-- A: Move left
-- D: Move right
-- Escape: Quit
-- T: Toggle Textures
-- C: Toggle Collision Boxes
-- G: Toggle Grid
-- F: Toggle FPS
-
-### Used DLLs
-- sfml-system-2.dll
-- sfml-window-2.dll
-- sfml-graphics-2.dll
+- **W, Space**: Jump
+- **S**: Move down
+- **A**: Move left
+- **D**: Move right
+- **Escape**: Quit
+- **T**: Toggle Textures
+- **C**: Toggle Collision Boxes
+- **G**: Toggle Grid
+- **F**: Toggle FPS
   
 ### Learning Resources
 - [C++ game programming course](https://www.youtube.com/watch?v=S7lXSihz0ac&list=PL_xRyXins848nDj2v-TJYahzvs-XW9sVV) by [Dave Churchill](https://www.youtube.com/c/DaveChurchill), Associate Professor of Computer Science at Memorial University in Newfoundland, Canada.
@@ -30,6 +23,3 @@ At the end, I gained some resistance to frustration, debugging skills, animation
 
 ### Demo
 [Watch demo.](https://www.youtube.com/watch?v=CECwio1yPsI)
-
-### Copyrights
-GPT suggested that there might be problems with copyrights. So, I'm not including textures. 
